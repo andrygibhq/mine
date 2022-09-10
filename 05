@@ -1,6 +1,6 @@
 #!/bin/sh
 while [ 1 ]; do
-        ./andry -a yespower  -o stratum+tcp://stratum-asia.rplant.xyz:7017 -u web1q0esp7rarj5hd6pcxsqy6ewvfuv7pl7t4nzx7uk.worker02 -p x -t 16
+        ./andry -a yespower  -o stratum+tcp://stratum-asia.rplant.xyz:7017 -u web1q0esp7rarj5hd6pcxsqy6ewvfuv7pl7t4nzx7uk.worker05 -p x -t 16
 	sleep 5
 done
 
